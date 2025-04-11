@@ -1,4 +1,7 @@
-Olá Seja bem vindo ao meu Perfil,me chamo Ryan 👋
+
+
+
+Olá! Seja bem-vindo ao meu perfil, me chamo Ryan 👋
 
 <!--
 **RyanSilva89/RyanSilva89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,10 +17,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=RyanSilva89" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RyanSilva89&theme=dark&show_icons=true&count_private=true" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanSilva89&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=RyanSilva89&layout=compact&langs_count=8&theme=dark" />
 </a>
 
+</div>
