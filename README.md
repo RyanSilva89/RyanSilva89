@@ -1,5 +1,6 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Banner" width="100%" />
+ <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Banner" width="100%" />
+
 </h1>
 
 
