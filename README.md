@@ -9,7 +9,7 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🎓 Estudante de **Tech**
+- 🎓 Estudante de **Tech da Informação**
 - 💡 Tenho boa familiaridade com informática e estou explorando áreas dentro da tecnologia
 - 🌱 Atualmente aprendendo: **Lógica de Programação, GitHub e JavaScript**
 - 🚀 Focado em construir projetos práticos para reforçar meu portfólio
