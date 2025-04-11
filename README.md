@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Tech Banner" width="100%" />
+</h1>
+
 
 <h1 align="center">Olá! Seja bem-vindo ao meu perfil, me chamo Ryan 👋</h1>
 
