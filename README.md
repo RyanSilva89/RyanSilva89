@@ -64,18 +64,4 @@
 
 </div>
 
----
 
-
-
----
-```
-
----
-
-Se quiser, posso te ajudar com:
-- Adicionar um banner bonito no topo
-- Atualizar seu link do LinkedIn e email real
-- Criar uma versão em inglês pro público internacional
-
-É só falar 😄
